@@ -9,8 +9,11 @@
 
 # 卷积内通道图像：
 ![](images/activation_1.jpg)
+![](images/activation_5.jpg)
 ![](images/activation_10.jpg)
+![](images/activation_15.jpg)
 ![](images/activation_20.jpg)
+![](images/activation_25.jpg)
 ![](images/activation_30.jpg)
 ![](images/activation_40.jpg)
 ![](images/activation_50.jpg)
